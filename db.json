@@ -1,9 +1,4 @@
 {
-  "login":
-    {
-      "status": 0
-    }
-  ,
   "steams": [
     {
       "username": "user1",
