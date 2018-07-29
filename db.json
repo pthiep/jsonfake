@@ -4,17 +4,17 @@
       "status": 0
     }
   ,
-  "comments": [
+  "steams": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "username": "user1",
+      "password": "pass1",
+      "timeremining": "2018-07-15 22:30:00"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+      "username": "user2",
+      "password": "pass2",
+      "timeremining": "2018-07-16 22:30:00"
+    },
   ],
   "profile": {
     "name": "typicode"
